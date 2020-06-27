@@ -6,9 +6,9 @@
 ```
 ## Requirements
 
-   *. [Python 3+](https://www.python.org/download/releases/3.0/?) - Python 3.6+ verion
-   *. [WebDriver](https://chromedriver.chromium.org/downloads) - Need latest version(any webdriver)
-   *. [openpyxl](https://pypi.org/project/openpyxl/) - To read xls files
-   *. [schedule](https://pypi.org/project/schedule/) - To schedule the messages
-   *. [Datetime](https://pypi.org/project/DateTime/) - To get time and date
+   - [Python 3+](https://www.python.org/download/releases/3.0/?) - Python 3.6+ verion
+   - [WebDriver](https://chromedriver.chromium.org/downloads) - Need latest version(any webdriver)
+   - [openpyxl](https://pypi.org/project/openpyxl/) - To read xls files
+   - [schedule](https://pypi.org/project/schedule/) - To schedule the messages
+   - [Datetime](https://pypi.org/project/DateTime/) - To get time and date
   
