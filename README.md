@@ -5,5 +5,5 @@
 3.Scheduling has been used in this code to send messages.so that we can send messages at a particular interval of time.
 ```
 ## Requirements
- *.
+
    1.[Python 3+](https://www.python.org/download/releases/3.0/?) - Python 3.6+ verion
