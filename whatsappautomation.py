@@ -129,7 +129,7 @@ imgw=input("Want to send image(if yes then enter 'yes' else 'no')")
 docw=input("want to send document(if yes then enter 'yes' else 'no')")
 im,doc,text,doctext=timescheduling(imgw,docw)
 driver = webdriver.Chrome(path of driver)
-driver.get()
+driver.get("http://web.whatsapp.com")
 sleep(10)
 for moblie_no in moblie_no_list:
     try:
