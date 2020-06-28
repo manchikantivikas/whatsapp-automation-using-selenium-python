@@ -60,7 +60,6 @@ def timescheduling(imgw,docw):
     elif docw!="yes":
         doc='null'
         doctext='null'
-    print(im,doc,text,doctext)
     return im,doc,text,doctext
 
 def image(im):
