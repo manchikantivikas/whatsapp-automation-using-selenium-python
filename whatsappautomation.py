@@ -91,7 +91,7 @@ def send_whatsapp_msg(moblie_no,image,document,inputmessage,imb,docb,sendmessb,s
 
 if(sendmessb==1 and sendmessrandb==1):
     inputmessage=timescheduling()
-driver = webdriver.Chrome('D:\chromedriver')
+driver = webdriver.Chrome('ENTER PATH OF CHROME DRIVER')
 driver.get("http://web.whatsapp.com")
 sleep(10)
 for moblie_no in moblie_no_list:
