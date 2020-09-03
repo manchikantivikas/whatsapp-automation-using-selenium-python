@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jul 21 17:29:31 2020
-lf.who_goes_first = tkinter.StringVar(None, "B")
-
-@author: Vikas
-"""
-
 import tkinter as tk
 from tkinter import *
 from tkinter import filedialog
